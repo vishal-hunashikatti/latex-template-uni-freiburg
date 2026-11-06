@@ -1,3 +1,24 @@
 output/*
 !output/*.pdf
 indent.log
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.glg
+*.glo
+*.gls
+*.ist
+*.lof
+*.log
+*.lol
+*.lot
+*.out
+*.slg
+*.slo
+*.sls
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
